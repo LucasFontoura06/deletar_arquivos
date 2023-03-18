@@ -4,3 +4,4 @@
 
 
 Obs: Haverá autualizações.
+  - Painel na Web com login de usuário.
