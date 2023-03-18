@@ -1,7 +1,5 @@
 import os
 
-# MUDAR O CAMINHO, COLOCAR O DO MEU COMPUTADOR AGORA.
-
 caminho_arquivo = 'C:\\Users\\Usuario\\Downloads\\'
 
 
